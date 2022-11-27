@@ -38,7 +38,7 @@ fund_SNTD["Return"] <- calc_return(fund_SNTD[,2])
 all_factors.r <- all_factors %>%
   
   
-  
+  vcxdvcx
   
   
   
